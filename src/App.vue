@@ -32,12 +32,16 @@ export default {
 </script>
 
 <style>
+
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+
 body {
   margin: 0;
 }
 
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+
+   font-family: 'Fredoka One', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
