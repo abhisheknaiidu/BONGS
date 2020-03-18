@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "International Gourmet Coffee"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "user_greeting": "Hello, {name}",
+  "footer": "Built with Vue and Vue I18n{0}Powered by an excessive amount of coffee",
+  "card": {
+    "added": "Added",
+    "likes": "Nobody ❤️ this yet 😕 | {n} person ❤️ this | {n} people ❤️ this"
+  },
+  "about": {
+    "title": "About Us",
+    "para1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt nobis sapiente quos officia vitae. Minus blanditiis doloremque error at consectetur magni nam voluptatem pariatur! Itaque deleniti delectus odio accusantium quas?",
+    "para2": "Non eius beatae dolorum impedit enim repudiandae nulla ipsum animi. Ullam qui libero possimus aliquam, praesentium ipsam omnis, ab aut culpa reprehenderit odio sapiente ex molestias maiores? Temporibus, molestiae eum!",
+    "para3": "Consectetur illo nobis, nemo necessitatibus quos corporis voluptates enim totam itaque ratione et ad iste corrupti eaque ex quas commodi. Perspiciatis vel quo consectetur quas nulla explicabo harum ratione consequatur."
+  }
+}
