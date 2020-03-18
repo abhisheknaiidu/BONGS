@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Battlecreek Columbia Coldono",
+    "price": 29.99,
+    "imgUrl": "/img/battlecreek-coffee-roasters-_1wDmr4dtuk-unsplash.jpg",
+    "addedOn": "2020-01-02",
+    "likes": 3
+  },
+  {
+    "id": 2,
+    "title": "Battlecreek Yirgacheffee",
+    "price": 34.99,
+    "imgUrl": "/img/battlecreek-coffee-roasters-HvzR2yXtii4-unsplash.jpg",
+    "addedOn": "2020-01-05",
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "title": "Primo Passo",
+    "price": 19.99,
+    "imgUrl": "/img/jon-tyson-KRedbshBxEk-unsplash.jpg",
+    "addedOn": "2020-01-05",
+    "likes": 9
+  },
+  {
+    "id": 4,
+    "title": "Little Nap Brazil",
+    "price": 39.99,
+    "imgUrl": "/img/lex-sirikiat-QouiCn7u6kw-unsplash.jpg",
+    "addedOn": "2020-01-06",
+    "likes": 12
+  },
+  {
+    "id": 5,
+    "title": "Little Nap Blend",
+    "price": 39.99,
+    "imgUrl": "/img/manki-kim-mv7kxYh5Rko-unsplash.jpg",
+    "addedOn": "2020-01-07",
+    "likes": 3
+  },
+  {
+    "id": 6,
+    "title": "French Truck Peru Cajamarca",
+    "price": 34.99,
+    "imgUrl": "/img/ryan-spaulding-_uncFvtOC-4-unsplash.jpg",
+    "addedOn": "2020-01-08",
+    "likes": 1
+  }
+]
