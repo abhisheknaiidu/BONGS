@@ -6,8 +6,6 @@
 
     <div class="card__footer">
       <div class="card__meta">
-        <p class="price">{{$n(price, "currency")}}</p>
-
         <p>{{ $d(new Date(addedOn), "short") }}</p>
       </div>
 
@@ -49,7 +47,7 @@ h3 {
 
 img {
   width: 100%;
-  height:85%;
+  height:80%;
 }
 
 .card__footer {

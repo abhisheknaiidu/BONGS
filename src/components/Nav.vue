@@ -32,7 +32,7 @@ export default {
   text-align: left;
   padding: 1rem;
   color: #fff;
-  background-color: #3d536a;
+  background-color: black;
 }
 
 .nav__start,

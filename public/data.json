@@ -2,49 +2,49 @@
   {
     "id": 1,
     "title": "Kaidikhana",
-    "price": 29.99,
+    "price": 299,
     "imgUrl": "/img/kaidikhana",
-    "addedOn": "2020-01-02",
-    "likes": 3
+    "addedOn": "2020-03-18",
+    "likes": 59
   },
   {
     "id": 2,
-    "title": "Battlecreek Yirgacheffee",
-    "price": 34.99,
-    "imgUrl": "/img/battlecreek-coffee-roasters-HvzR2yXtii4-unsplash.jpg",
-    "addedOn": "2020-01-05",
-    "likes": 0
+    "title": "Vijan Mahal",
+    "price": 799,
+    "imgUrl": "/img/vijan.jpg",
+    "addedOn": "2020-03-18",
+    "likes": 99
   },
   {
     "id": 3,
-    "title": "Primo Passo",
-    "price": 19.99,
-    "imgUrl": "/img/jon-tyson-KRedbshBxEk-unsplash.jpg",
-    "addedOn": "2020-01-05",
-    "likes": 9
+    "title": "Symphony",
+    "price": 199,
+    "imgUrl": "/img/symphony.jpg",
+    "addedOn": "2020-03-18",
+    "likes": 58
   },
   {
     "id": 4,
-    "title": "Little Nap Brazil",
-    "price": 39.99,
-    "imgUrl": "/img/lex-sirikiat-QouiCn7u6kw-unsplash.jpg",
-    "addedOn": "2020-01-06",
-    "likes": 12
+    "title": "Darbar",
+    "price": 399,
+    "imgUrl": "/img/darbar.jpg",
+    "addedOn": "2020-03-18",
+    "likes": 70
   },
   {
     "id": 5,
-    "title": "Little Nap Blend",
-    "price": 39.99,
-    "imgUrl": "/img/manki-kim-mv7kxYh5Rko-unsplash.jpg",
-    "addedOn": "2020-01-07",
-    "likes": 3
+    "title": "Food-Garage",
+    "price": 299,
+    "imgUrl": "/img/food-garage.jpeg",
+    "addedOn": "2020-03-18",
+    "likes":45
   },
   {
     "id": 6,
-    "title": "French Truck Peru Cajamarca",
-    "price": 34.99,
-    "imgUrl": "/img/ryan-spaulding-_uncFvtOC-4-unsplash.jpg",
-    "addedOn": "2020-01-08",
-    "likes": 1
+    "title": "Mezban",
+    "price": 199,
+    "imgUrl": "/img/mezban.jpg",
+    "addedOn": "2020-03-18",
+    "likes":60
   }
 ]
