@@ -11,7 +11,7 @@ App for some of the best Restuarants of Jabalpur,India. This App is being intern
 ![Screenshot](en.png)
 
 ```diff
-+ ENGLISH HOME PAGE :
++ ARABIC HOME PAGE :
 
 ```
 ![Screenshot](ar.png)
