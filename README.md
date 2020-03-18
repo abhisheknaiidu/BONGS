@@ -16,16 +16,16 @@ App for some of the best Restuarants of Jabalpur,India. This App is being intern
 ```
 ![Screenshot](ar.png)
 
-## INSTALLATION
+## GETTING STARTED
 
-```
-npm install
-```
+Run the following commands in order to have the code up and running on your machine:
 
-### Compiles and hot-reloads for development
+``` bash
+# installs dependencies
+$ npm install
 
-```
-npm run serve
+# Builds and serves assets with hot-reload
+$ npm run dev
 ```
 
 ### Compiles and minifies for production
