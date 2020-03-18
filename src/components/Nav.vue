@@ -8,7 +8,7 @@
     </div>
 
     <div class="nav__end">
-      <p class="user-greeting">{{ $t("user_greeting", { name: "Adam" }) }}</p>
+      <p class="user-greeting">{{ $t("user_greeting", { name: "Abhishek" }) }}</p>
 
       <LocaleSwitcher />
     </div>
