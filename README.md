@@ -25,7 +25,7 @@ Run the following commands in order to have the code up and running on your mach
 $ npm install
 
 # Builds and serves assets with hot-reload
-$ npm run dev
+$ npm run serve
 ```
 
 ### Compiles and minifies for production
