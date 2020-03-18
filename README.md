@@ -1,8 +1,4 @@
-## Demo App for Phrase Blog Vue i18n Article
-
-This is a companion demo app for a [Phrase blog](https://phrase.com/blog)
-article.
-
+## Demo App for VUE i18
 ---
 
 ## Project setup
