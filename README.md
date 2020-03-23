@@ -1,4 +1,4 @@
-## RESTUARANTS OF JABALPUR (internationalized)
+## RESTUARANTS OF JABALPUR (Internationalized)
 
 App for some of the best Restuarants of Jabalpur,India. This App is being internationalized in 2 languages i.e English and Arabic. This will look this :)
 
